@@ -120,7 +120,7 @@ The experiments provide practical insight into how models such as BERT and GPT o
 ---
 
 ##  Author
-Name: Naveenkumar N 
+Name: Naveenkumar N  
 Course: BE Computer Science and Engineering  
 Institution: MIT Chennai  
 
